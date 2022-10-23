@@ -34,13 +34,13 @@ Code ini dibuat untuk raspberry-pi menggunakan pin GPIO untuk menjalankan fungsi
 
 <p align="left">
 
-  ➛ <a href="https://github.com/TierKun/Telegram-Bot-IoT">Python</a>
+  ➛ <a href="https://github.com/TierKun/SmartBin/blob/main/smart_bin.py">Python</a>
 
 </p>
 
 <p align="left">
 
-  ➛ <a href="https://github.com/TierKun/Whatsapp-Bot-IoT">JavaScript</a>
+  ➛ <a href="https://github.com/TierKun/SmartBin/blob/main/smart_bin.js">JavaScript</a>
 
 </p>
 
