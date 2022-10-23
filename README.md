@@ -53,70 +53,8 @@ Code ini dibuat untuk raspberry-pi menggunakan pin GPIO untuk menjalankan fungsi
 ### Installation
 
 
-* [`Driver CH34x For NodeMcu lolin`](https://github.com/TierKun/IoT-Relay/blob/main/Driver%20%26%20Library/CH341SER.zip)
-
-* [`Library ESP8266`](https://github.com/TierKun/IoT-Relay/blob/main/Driver%20%26%20Library/ESP8266wifi-master.zip)
-
-* [`Library Blynk`](https://github.com/TierKun/IoT-Relay/blob/main/Driver%20%26%20Library/blynk-library-master.zip)
-
-* [`Driver&Tools Flash Error`](https://github.com/TierKun/IoT-Relay/blob/main/Driver%20%26%20Library/Flash%20NODEmcu.rar)
-
-
-
----------
-
-#### Edit Config Token Server Blynk
-
-<p align="left">
-
-  ‣ <a href="https://github.com/TierKun/IoT-Relay/blob/main/Code/IoT%20Relays.ino#L16-L18">Edit Token Config</a>
-
-</p>
-
-
-
-```C++
-
-
-
-#define BLYNK_TEMPLATE_ID "ISI_TEMPLATE_ID"
-
-#define BLYNK_DEVICE_NAME "NAMA_DEVICE"
-
-#define BLYNK_AUTH_TOKEN "ISI_TOKEN"
-
-
-
-```
+* Bentar Bro, Script ini belum 100% jadi, sy masih nanya2 suhu biar jadi fix:v
 
 ---------
 
 
-
-#### Edit Wifi Config
-
-
-
-<p align="left">
-
-   ‣ <a href="https://github.com/TierKun/IoT-Relay/blob/main/Code/IoT%20Relays.ino#L22-L23">Edit Wifi Config</a>
-
-</p>
-
-
-
-```C++
-
-
-
-char ssid[] = "sinyo";//Masukkan Nama Wifi/SSID
-
-char pass[] = "sukasukasaya";//Masukkan WIFI password
-
-
-
-```
-
-
-
----------
