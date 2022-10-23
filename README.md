@@ -25,7 +25,7 @@ Code ini dibuat untuk raspberry-pi menggunakan pin GPIO untuk menjalankan fungsi
 - 4x Motor DC high torque
 - [`NodeJs`](https://nodejs.org/en/) support Version : 12, 13, 14, 15, 16
 - [`Python`](https://www.python.org/downloads/)
-- RPi.GPIO : [`Python`](https://pypi.org/project/RPi.GPIO/)  
+- RPi.GPIO : [`Pypi`](https://pypi.org/project/RPi.GPIO/)  
 - pigpio   : [`NpmJs`](https://github.com/fivdi/pigpio)
 
 ---------
